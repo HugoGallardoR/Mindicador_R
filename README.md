@@ -1,5 +1,6 @@
 # Mindicador_R
-En este repositorio se suben 2 códigos para la utilización de la API https://mindicador.cl/ en R. A considerar, esta API transforma todos los tipos de cambio a Peso Chile.
+En este repositorio se suben 2 funciones para la utilización de la API https://mindicador.cl/ en R. A considerar, esta API transforma  los tipos de cambio a Peso Chile.
+#Cambios que existen: uf , utm, euro, clp entre otros.
 
 1)<b>MindicadorAnual.R</b>: Función en R para descargar la moneda deseada en un año en específico.
 
